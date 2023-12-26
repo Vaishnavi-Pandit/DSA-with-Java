@@ -1,5 +1,5 @@
 
-
+/*Check weather array is in ascending order or not */
 import java.util.Scanner;
 public class Weather_array_is_in_ascending_order_or_not {
     /**
