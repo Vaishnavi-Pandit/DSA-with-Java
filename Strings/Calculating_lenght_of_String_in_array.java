@@ -1,4 +1,5 @@
 
+/*Calculating overall lenght of the strings in array */
 import java.util.Scanner;
 public class Calculating_lenght_of_String_in_array {
     /**
